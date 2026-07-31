@@ -2,8 +2,6 @@
 
 一個簡單的 Chrome 擴充套件，讓你一鍵隱藏 Facebook Messenger 左邊的聊天列表，讓介面更乾淨。
 
-![demo](demo.png)
-
 ## 支援網址
 
 - `facebook.com/messages/t/...`
@@ -13,7 +11,7 @@
 
 > Chrome 線上應用程式商店尚未上架，請手動安裝。
 
-1. 下載 [messenger-hide.zip](https://github.com/你的帳號/messenger-hide/releases/latest)
+1. 下載 [messenger-hide.zip](https://github.com/cjr-tw/messenger-hide/releases/latest)
 2. 解壓縮
 3. 打開 Chrome，網址列輸入 `chrome://extensions`
 4. 右上角開啟「**開發人員模式**」
